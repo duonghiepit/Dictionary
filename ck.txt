@@ -1,0 +1,24 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.google.com	TRUE	/	FALSE	1727272605	SID	aAgcl7UooiNxpTwKNZ3QZ0LzMMSqzy9l3qLEcCCkpXSyiv8j7EmznGio0_POYX660Omj9g.
+.google.com	TRUE	/	TRUE	1727272605	__Secure-1PSID	aAgcl7UooiNxpTwKNZ3QZ0LzMMSqzy9l3qLEcCCkpXSyiv8j3U8dtxiPZHvwias-ujXThA.
+.google.com	TRUE	/	TRUE	1727272605	__Secure-3PSID	aAgcl7UooiNxpTwKNZ3QZ0LzMMSqzy9l3qLEcCCkpXSyiv8jca_i_Ze5BmikH1UtKVBQjg.
+.google.com	TRUE	/	FALSE	1727272605	HSID	Ax4GB6gQSe95L-QIC
+.google.com	TRUE	/	TRUE	1727272605	SSID	AOlI4ion824t6ZwDp
+.google.com	TRUE	/	FALSE	1727272605	APISID	Q6Nh3vlMmx-iupro/A8BiDxl-vvHRA4p-f
+.google.com	TRUE	/	TRUE	1727272605	SAPISID	60laknLKPdCeThSa/A1bI3b2uitQuwF_MV
+.google.com	TRUE	/	TRUE	1727272605	__Secure-1PAPISID	60laknLKPdCeThSa/A1bI3b2uitQuwF_MV
+.google.com	TRUE	/	TRUE	1727272605	__Secure-3PAPISID	60laknLKPdCeThSa/A1bI3b2uitQuwF_MV
+drive.google.com	FALSE	/	TRUE	1727273824	OSID	aAgclyiQmZMP3DUdrUwyQbIy9_89vK2J_AFXjtg9eUt3eitiL3yC5-L2nv1zjrMO4ngQiQ.
+drive.google.com	FALSE	/	TRUE	1727273824	__Secure-OSID	aAgclyiQmZMP3DUdrUwyQbIy9_89vK2J_AFXjtg9eUt3eitiojlO0b9RW0dWMOZd4FoyZQ.
+drive.google.com	FALSE	/	TRUE	1695313078	OTZ	7173618_28_28__28_
+.google.com	TRUE	/	TRUE	1725303418	__Secure-1PSIDTS	sidts-CjIBSAxbGbSQAQdJ8Hlo4fBV61nkITZWGv1ilh-Lh3mH9MvU5QkE3lmvdGDrEyVpQzPEsBAA
+.google.com	TRUE	/	TRUE	1725303418	__Secure-3PSIDTS	sidts-CjIBSAxbGbSQAQdJ8Hlo4fBV61nkITZWGv1ilh-Lh3mH9MvU5QkE3lmvdGDrEyVpQzPEsBAA
+.google.com	TRUE	/	TRUE	1696359679	1P_JAR	2023-09-03-19
+.google.com	TRUE	/	TRUE	1708265800	AEC	Ad49MVHicAiiIXkXUcQC5OrnK8OxREh8hCKy1G-VhYhp8sWQJBxbvaXZyZ8
+.google.com	TRUE	/	TRUE	1709578875	NID	511=KzicBdzP_SuvBdPLj0VPnqK6OU5-jOKgkkwMg9UrHWfx7ONoCKfDaF7zW8TvubWmcd3F02JW11cUa35brJ4EgP5jaABIxKGIoIaKFb0w-4FmousZEbcA6RnxuxwB6sni6gfob7kYpsbl3Asry4MZiT2PcLX8HXFFjQZ5o6QticnxZzMnREUmluVHHwlfRw3xYEKrXfKkYQC-NY7BroLmbvYN-4ypHjq1VGgY6VPucW38b0sdEZoJpbm-wAC1FGoiYcHoSDh9VGqknxagS8zoUY_zOZ4DK_cFK-lg9QLMwdMW1Ilm8HjqsUjEKCZu0w
+.google.com	TRUE	/	FALSE	1725303686	SIDCC	APoG2W-gvb9KVeXYAwFZigf-SbN5P5mH9tzYUEkwml1R81aL0pYfM11dHtAHRGJamaxVMwijKmo
+.google.com	TRUE	/	TRUE	1725303686	__Secure-1PSIDCC	APoG2W_s6XvpdwAGfEWVxu9JhcNNva9CqiDxeVfKuyAGcyyeCsTUbcLgiLdwO0El0B_QcFVaSQ
+.google.com	TRUE	/	TRUE	1725303686	__Secure-3PSIDCC	APoG2W-8bZkj9SrQYbueCLtQ2AIUQK2J8LQKmu1prGfZMQTvjJZcKjJGMNPdIiwhXtYVFfRhbQ
